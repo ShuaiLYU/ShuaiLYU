@@ -1,6 +1,6 @@
 ## Hi there, I'm Shuai LYU 👋
 
-I'm a computer vision researcher and engineer focused on **industrial defect detection**, **anomaly detection**, and **few-shot learning**. I'm actively contributing to [Ultralytics](https://github.com/ultralytics/ultralytics), working on open-vocabulary detection (YOLOE) and interactive segmentation (SAM2).
+I'm a computer vision researcher and engineer focused on **industrial defect detection**, **anomaly detection**, and **few-shot learning**. I'm actively contributing to [Ultralytics](https://github.com/ultralytics/ultralytics), working on open-vocabulary detection (YOLOE).
 
 ---
 
@@ -10,7 +10,6 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 
 - 🏷️ **YOLOE** — Open-vocabulary / prompt-free object detection: visual prompt training, text model support, multi-config YAML training, memory bank for inference
 - 🎯 **SAM2** — Interactive segmentation: `SAM2DynamicInteractivePredictor` for few-shot interactive inference
-- 🛠️ Various improvements: `Results.save()` flexibility, mask resize fixes, loss name corrections, single-class visualization
 
 | PR | Title | Status |
 |----|-------|--------|
@@ -36,10 +35,6 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
   [Code](https://github.com/ShuaiLYU/REB)
   Self-supervised representation learning with **DefectMaker** synthetic augmentation and LDKNN for unsupervised anomaly detection on MVTec AD & MVTec LOCO.
 
-- **Segmentation-Based Deep-Learning Approach for Surface-Defect Detection**
-  *Journal of Intelligent Manufacturing, 2019* · [Paper](https://link.springer.com/article/10.1007/s10845-019-01476-x) · [Code](https://github.com/ShuaiLYU/Deep-Learning-Approach-for-Surface-Defect-Detection)
-  TensorFlow implementation achieving 99.38% accuracy on KolektorSDD.
-
 ---
 
 ### 🚀 Key Repositories
@@ -50,9 +45,6 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 | [MVREC](https://github.com/ShuaiLYU/MVREC) | Few-shot defect classification with Multi-View Region-Context (AAAI 2025) | ![stars](https://img.shields.io/github/stars/ShuaiLYU/MVREC?style=social) |
 | [REB](https://github.com/ShuaiLYU/REB) | Reducing biases in representation for industrial anomaly detection | ![stars](https://img.shields.io/github/stars/ShuaiLYU/REB?style=social) |
 | [MVTec-FS](https://github.com/ShuaiLYU/MVTec-FS) | Few-shot defect benchmark derived from MVTec AD | ![stars](https://img.shields.io/github/stars/ShuaiLYU/MVTec-FS?style=social) |
-| [ultra_ext](https://github.com/ShuaiLYU/ultra_ext) | Extension library for Ultralytics (RefCOCO, COCO2014, visualization tools) | ![stars](https://img.shields.io/github/stars/ShuaiLYU/ultra_ext?style=social) |
-| [train_yoloe](https://github.com/ShuaiLYU/train_yoloe) | YOLOE training scripts and recipes | ![stars](https://img.shields.io/github/stars/ShuaiLYU/train_yoloe?style=social) |
-| [baseline_segment_Resunet_pytorch](https://github.com/ShuaiLYU/baseline_segment_Resunet_pytorch) | ResUNet baseline for defect segmentation | ![stars](https://img.shields.io/github/stars/ShuaiLYU/baseline_segment_Resunet_pytorch?style=social) |
 
 ---
 
@@ -60,7 +52,6 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Research Areas:** Industrial Defect Detection · Anomaly Detection · Few-Shot Learning · Open-Vocabulary Detection · Interactive Segmentation
