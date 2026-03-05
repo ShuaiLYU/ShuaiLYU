@@ -16,9 +16,11 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install scholarly
+        run: pip install requests
 
       - name: Fetch Google Scholar stats
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python .github/scripts/fetch_scholar.py
 
       - name: Commit and push to gs_citation branch
