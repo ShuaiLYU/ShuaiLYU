@@ -1,8 +1,27 @@
-## Hi there, I'm Shuai LYU 👋
+## Hi there, I'm Shuai LYU (Louis) 👋
 
 I'm a computer vision researcher and engineer focused on **industrial defect detection**, **anomaly detection**, and **few-shot learning**. I'm actively contributing to [Ultralytics](https://github.com/ultralytics/ultralytics), working on open-vocabulary detection (YOLOE).
 
 ---
+
+### � Experience & Education
+
+**<img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics-logomark-color.png" height="16"/> [Ultralytics](https://ultralytics.com)** · Full-time · Shenzhen, Guangdong, China
+
+&nbsp;&nbsp;🔹 **Senior Machine Learning Engineer** · Jan 2026 – Present 
+
+&nbsp;&nbsp;🔹 **Machine Learning Engineer** · Aug 2025 – Jan 2026 · 6 mos 
+
+**🎓 [The Hong Kong Polytechnic University](https://www.polyu.edu.hk)**
+
+&nbsp;&nbsp;🔹 **Doctor of Philosophy (PhD)** · Sep 2021 – Jun 2025 · 3 yrs 9 mos
+
+**🎓 [Guangdong University of Technology](https://www.gdut.edu.cn)**
+
+&nbsp;&nbsp;🔹 **Master of Engineering** · Jun 2017 – Jun 2020 · 3 yrs
+
+---
+
 
 ### 🔭 Work Direction @ Ultralytics
 
@@ -27,6 +46,8 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 
 ### 📄 Papers
 
+[![Google Scholar](https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FShuaiLYU%2FShuaiLYU%40gs_citation%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?hl=zh-CN&user=5Wecal8AAAAJ)
+
 - **MVREC: A General Few-shot Defect Classification Model Using Multi-View Region-Context**
   *AAAI 2025* · [arXiv](https://arxiv.org/abs/2412.16897) · [Code](https://github.com/ShuaiLYU/MVREC)
   A CLIP-based few-shot framework for multiclass industrial defect classification, introducing the **MVTec-FS** benchmark (1228 images, 46 defect types).
@@ -46,9 +67,10 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 | [REB](https://github.com/ShuaiLYU/REB) | Reducing biases in representation for industrial anomaly detection | ![stars](https://img.shields.io/github/stars/ShuaiLYU/REB?style=social) |
 | [MVTec-FS](https://github.com/ShuaiLYU/MVTec-FS) | Few-shot defect benchmark derived from MVTec AD | ![stars](https://img.shields.io/github/stars/ShuaiLYU/MVTec-FS?style=social) |
 
+
 ---
 
-### 🛠️ Skills & Tools
+### �🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -60,5 +82,8 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
 
 ### 📫 Contact
 
+- 🎓 Google Scholar: [Shuai LYU](https://scholar.google.com/citations?hl=zh-CN&user=5Wecal8AAAAJ)
 - 📧 Email: shuai.lyu@foxmail.com
-- 🐙 GitHub: [github.com/ShuaiLYU](https://github.com/ShuaiLYU)
+- � Work Email: louis@ultralytics.com
+- �🐙 GitHub: [github.com/ShuaiLYU](https://github.com/ShuaiLYU)
+- 💼 LinkedIn: [https://www.linkedin.com/in/shuai-lyu-24881a292/](https://www.linkedin.com/feed/)

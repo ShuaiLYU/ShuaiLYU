@@ -1,0 +1,32 @@
+name: Update Google Scholar Citations
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 08:00 UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  update-citations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Fetch Google Scholar stats
+        run: python .github/scripts/fetch_scholar.py
+
+      - name: Commit and push to gs_citation branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin gs_citation 2>/dev/null || true
+          git checkout -B gs_citation
+          git add gs_data_shieldsio.json
+          git diff --cached --quiet || git commit -m "chore: update Google Scholar citation stats [skip ci]"
+          git push origin gs_citation --force
