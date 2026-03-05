@@ -56,17 +56,6 @@ I contribute to the [ultralytics/ultralytics](https://github.com/ultralytics/ult
   [Code](https://github.com/ShuaiLYU/REB)
   Self-supervised representation learning with **DefectMaker** synthetic augmentation and LDKNN for unsupervised anomaly detection on MVTec AD & MVTec LOCO.
 
----
-
-### 🚀 Key Repositories
-
-| Repository | Description | Stars |
-|-----------|-------------|-------|
-| [Deep-Learning-Approach-for-Surface-Defect-Detection](https://github.com/ShuaiLYU/Deep-Learning-Approach-for-Surface-Defect-Detection) | Segmentation-based deep learning for surface defect detection (JIM 2019) | ![stars](https://img.shields.io/github/stars/ShuaiLYU/Deep-Learning-Approach-for-Surface-Defect-Detection?style=social) |
-| [MVREC](https://github.com/ShuaiLYU/MVREC) | Few-shot defect classification with Multi-View Region-Context (AAAI 2025) | ![stars](https://img.shields.io/github/stars/ShuaiLYU/MVREC?style=social) |
-| [REB](https://github.com/ShuaiLYU/REB) | Reducing biases in representation for industrial anomaly detection | ![stars](https://img.shields.io/github/stars/ShuaiLYU/REB?style=social) |
-| [MVTec-FS](https://github.com/ShuaiLYU/MVTec-FS) | Few-shot defect benchmark derived from MVTec AD | ![stars](https://img.shields.io/github/stars/ShuaiLYU/MVTec-FS?style=social) |
-
 
 ---
 
